@@ -1,0 +1,12 @@
+streamlit==1.29.0
+altair==4.2.2
+numpy
+pandas
+pydeck
+streamlit
+PyMuPDF
+folium
+geopy
+streamlit_folium
+openpyxl
+streamlit
